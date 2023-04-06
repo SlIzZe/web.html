@@ -1,0 +1,136 @@
+.foliage-1,
+.foliage-2,
+.foliage-3,
+.foliage-4,
+.foliage-5,
+.foliage-6,
+.foliage-7,
+.foliage-8,
+.foliage-9 {
+    height: 50px;
+    width: 50px;
+    background: #14790b;
+    position: absolute;
+    border-radius: 50%;
+
+}
+
+.foliage-glav {
+    background: #14790b;
+    height: 400px;
+    width: 400px;
+    border-radius: 50%;
+    position: absolute;
+    margin: 75px 0 0 520px;
+}
+
+.mini-foliage-1, 
+.mini-foliage-2, 
+.mini-foliage-3, 
+.mini-foliage-4 {
+    background: #14790b;
+    height: 120px;
+    width: 120px;
+    border-radius: 50%;
+    position: absolute;
+}
+
+.mini-foliage-1 {
+    margin: 10px 0 0 230px;
+    border-radius: 50%;
+    animation-duration: 5s;
+    animation-name: foliage-mini-move-1;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+}
+
+.mini-foliage-2 {
+    margin: 80px 0 0 300px;
+    border-radius: 50%;
+    animation-duration: 5.5s;
+    animation-name: foliage-mini-move-2;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+}
+
+.mini-foliage-3 {
+    margin: 160px 0 0 290px;
+    border-radius: 50%;
+    animation-duration: 4.4s;
+    animation-name: foliage-mini-move-3;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+}
+
+.mini-foliage-4 {
+    margin: 260px 0 0 260px;
+    border-radius: 50%;
+    animation-duration: 4.7s;
+    animation-name: foliage-mini-move-4;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+}
+
+.foliage-1 {
+    margin: 0px 0 0 40px;
+    border-radius: 50%;
+    animation-duration: 0.72s;
+    animation-name: foliage-move1;
+    animation-iteration-count: infinite;
+}
+.foliage-2 {
+    margin: 45px 0 0 230px;
+    border-radius: 50%;
+    animation-duration: 0.7s;
+    animation-name: foliage-move2;
+    animation-iteration-count: infinite;
+}
+.foliage-3 {
+    margin: 90px 0 0 300px;
+    border-radius: 50%;
+    animation-duration: 0.69s;
+    animation-name: foliage-move3;
+    animation-iteration-count: infinite;
+}
+.foliage-4 {
+    margin: 135px 0 0 340px;
+    border-radius: 50%;
+    animation-duration: 0.74s;
+    animation-name: foliage-move4;
+    animation-iteration-count: infinite;
+}
+.foliage-5 {
+    margin: 180px 0 0 350px;
+    border-radius: 50%;
+    animation-duration: 0.69s;
+    animation-name: foliage-move5;
+    animation-iteration-count: infinite;
+}
+.foliage-6 {
+    margin: 225px 0 0 335px;
+    border-radius: 50%;
+    animation-duration: 0.7s;
+    animation-name: foliage-move6;
+    animation-iteration-count: infinite;
+}
+.foliage-7 {
+    margin: 270px 0 0 290px;
+    border-radius: 50%;
+    animation-duration: 0.73s;
+    animation-name: foliage-move7;
+    animation-iteration-count: infinite;
+}
+.foliage-8 {
+    margin: 315px 0 0 210px;
+    border-radius: 50%;
+    animation-duration: 0.69s;
+    animation-name: foliage-move8;
+    animation-iteration-count: infinite;
+}
+.foliage-9 {
+    margin: 350px 0 0 40px;
+    border-radius: 50%;
+    animation-duration: 0.72s;
+    animation-name: foliage-move9;
+    animation-iteration-count: infinite;
+}

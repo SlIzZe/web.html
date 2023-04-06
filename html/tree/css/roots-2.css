@@ -1,0 +1,62 @@
+.oblique-1,
+.oblique-2,
+.oblique-3,
+.oblique-4,
+.oblique-5,
+.oblique-6,
+.oblique-7,
+.oblique-8 {
+    background: #7e3105;
+    position: absolute;
+}
+
+.oblique-1 {
+    transform: rotate(25deg);
+    margin: 625px 0 0 484px;
+    height: 100px;
+    width: 100px;
+    border-bottom-right-radius: 50px;
+}
+.oblique-2 {
+    transform: rotate(245deg);
+    margin: 625px 0 0 836px;
+    height: 100px;
+    width: 100px;
+    border-top-left-radius: 50px;
+}
+.oblique-3 {
+    margin:526px 0 0 538px;
+    height: 126px;
+    width: 100px;
+    transform: rotate(37deg);
+}
+.oblique-4 {
+    margin:539px 0 0 770px;
+    height: 100px;
+    width: 125px;
+    transform: rotate(233deg);
+}
+.oblique-5 {
+    margin:424px 0 0 601px;
+    height: 125px;
+    width: 100px;
+    transform: rotate(25deg);
+}
+.oblique-6 {
+    margin:437px 0 0 705px;
+    height: 100px;
+    width: 125px;
+    transform: rotate(64deg);
+}
+.oblique-7 {
+    margin:344px 0 0 639px;
+    height: 125px;
+    width: 100px;
+    transform: rotate(25deg);
+}
+.oblique-8 {
+    margin:357px 0 0 668px;
+    height: 100px;
+    width: 125px;
+    transform: rotate(66deg);
+}

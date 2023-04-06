@@ -1,0 +1,163 @@
+.smile {
+    height: 700px;
+    margin: 50px 30px;
+}
+
+.smile-face {
+    background: rgb(255, 255, 0);
+    height: 300px;
+    width: 300px;
+    border: 3px;
+    border-radius: 50%; 
+    flex-direction: column;
+}
+
+.eyes1 {
+    padding: 100px 20px 0 0;
+    height: 60px;
+    width: 60px;
+}
+
+.eyes2 {
+    padding: 100px 0 0 60px;
+    height: 60px;
+    width: 60px;
+}
+
+.back-eyes1,
+.back-eyes2 {
+    background: #cdcccc;
+    width: 50px;
+    height: 70px;
+    border: 2px;
+    border-color: rgb(170, 170, 170);
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.eyes-pupil-glav1 {
+    display: flex;
+    justify-content: center;
+    padding: 0 50px 0 0;
+}
+
+.eyes-pupil-glav2 {
+    display: flex;
+    justify-content: center;
+    padding: 0 50px 0 0;
+}
+
+.eyes-pupil1,
+.eyes-pupil2 {
+    background: #000;
+    width: 15px;
+    height: 45px;
+    border: 2px;
+    border-color: rgb(142, 141, 141);
+    border-radius: 50%;
+    text-align: left;
+    animation-duration: 1s;
+    animation-name: eyes-move;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+}
+
+.eyes-pupil1 {
+    padding: 0 15px 0 0;
+}
+.eyes-pupil2 {
+    padding: 0 15px 0 0;
+}
+
+.rote-glav1 {
+    display: flex;
+    justify-content: center;
+    animation-duration: 2s;
+    animation-name: rote-move1;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+}
+
+.rote-glav2 {
+    display: flex;
+    justify-content: center;
+    animation-duration: 2s;
+    animation-name: rote-move2;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+}
+
+.rote1 {
+    background: #000;
+    width: 100px;
+    height: 10px;
+    border-radius: 10px;
+}
+
+.rote2 {
+    background: #000;
+    width: 100px;
+    height: 10px;
+    border-radius: 10px;
+}
+
+.teeth-1 {
+    
+}
+.teeth-2 {
+
+}
+
+.center{ 
+    display: flex;
+    justify-content: center;
+    margin: 0 0 50px 0;
+}
+
+.ears {
+    height: 700px;
+    margin: 50px 30px;
+    display: flex;
+    position: absolute;
+}
+
+.ear1 {
+    background: rgb(220, 220, 0) ;
+    border: 1px;
+    border-radius: 50%;
+    height: 90px;
+    width: 90px;
+    margin: -45px 120px 0 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    animation-duration: 0.5s;
+    animation-name: ear-move2;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+}
+
+.ear2 {
+    background: rgb(220, 220, 0) ;
+    border: 1px;
+    border-radius: 50%;
+    height: 90px;
+    width: 90px;
+    margin: -45px 0 0 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    animation-duration: 0.5s;
+    animation-name: ear-move2;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+}
+
+.ear-in {
+    background: #ee47a8;
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+}

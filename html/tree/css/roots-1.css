@@ -1,0 +1,80 @@
+.trunk-1,
+.trunk-2,
+.trunk-3,
+.trunk-4,
+.trunk-5,
+.trunk-6,
+.trunk-7,
+.trunk-8,
+.trunk-9,
+.trunk-10,
+.trunk-11,
+.trunk-12,
+.trunk-13,
+.trunk-14,
+.trunk-15 {
+    background: #7e3105;
+    margin: 1px;
+    position: absolute;
+
+}
+/* Первый слой */
+.trunk-1{
+    height: 100px;
+    width: 100px;
+    margin: 609px 0 0 660px;
+}
+.trunk-2{
+    height: 100px;
+    width: 100px;
+    margin: 609px 0 0 510px;
+}
+.trunk-3{
+    height: 100px;
+    width: 100px;
+    margin: 609px 0 0 585px;
+}
+.trunk-4{
+    height: 100px;
+    width: 100px;
+    margin: 609px 0 0 810px;
+}
+.trunk-5{
+    height: 100px;
+    width: 100px;
+    margin: 609px 0 0 735px;
+}
+/* Второй слой */
+.trunk-6{
+    height: 100px;
+    width: 100px;
+    margin: 509px 0 0 735px;
+}
+.trunk-7{
+    height: 100px;
+    width: 100px;
+    margin: 509px 0 0 660px;
+}
+.trunk-8{
+    height: 100px;
+    width: 100px;
+    margin: 509px 0 0 585px;
+}
+/* Третий слой */
+.trunk-9{
+    height: 100px;
+    width: 100px;
+    margin: 409px 0 0 635px;
+}
+
+.trunk-10{
+    height: 100px;
+    width: 100px;
+    margin: 409px 0 0 685px;
+}
+/*  Четвёртый слой */
+.trunk-11{
+    height: 80px;
+    width: 80px;
+    margin: 329px 0 0 670px;
+}

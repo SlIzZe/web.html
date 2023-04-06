@@ -1,0 +1,117 @@
+@keyframes tear-move {
+    from {
+        padding-top: 50px;
+    }
+    to {
+        padding-bottom: -30px;
+    }
+}
+
+@keyframes tear-move {
+    from {
+        padding-top: 60px;
+    }
+    to {
+        padding-bottom: 10px;
+    }
+}
+
+.smile3 {
+    background: yellow;
+    height: 300px;
+    width: 300px;
+    border: 10px;
+    border-radius: 50%;
+    display: flex;
+    margin: 50px 0 0 600px;
+}
+
+.eyes-smile3-1,
+.eyes-smile3-2 {
+    background: #000;
+    border: 30px;
+    border-radius: 50%;
+    width: 20px;
+    height: 20px;
+    margin-top: 75px;
+    border-color: rgb(255, 255, 255);
+    border-style: solid;
+    position: absolute;
+    margin-left: 130px;
+}   
+
+.eyes-smile3-1 {
+    margin-left: 130px;
+}
+
+.eyes-smile3-2 {
+    margin-left: 30px;
+}
+
+.mount-smile3 {
+    margin: 220px 90px;
+}
+
+.mount3 {
+    background: #000;
+    width: 100px;
+    height: 15px;
+    border: 3px;
+    border-radius: 100px;
+}
+
+.tears{
+    position: absolute;
+}
+
+.tear1 {
+    background: #06efb1;
+    height: 0px;
+    width: 20px;
+    position: absolute;
+    border-radius: 5px;
+    margin: 155px 0 0 60px;
+    animation-duration: 5s;
+    animation-name: tear-move;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+}
+
+.tear2 {
+    background: #06efb1;
+    height: 0px;
+    width: 20px;
+    position: absolute;
+    border-radius: 5px;
+    margin: 155px 0 0 160px;
+    animation-duration: 5s;
+    animation-name: tear-move;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+}
+
+
+.un-glas {
+    display: flex;
+    justify-content: start;
+}
+
+.un-glas-1 {
+    background: rgb(255, 255, 0);
+    height: 40px;
+    width: 100px;
+    border-radius: 5px;
+    border: 1px;
+    margin: 60px 0 0 120px;
+    position: absolute;
+}
+
+.un-glas-2 {
+    background: rgb(255, 255, 0);
+    height: 40px;
+    width: 100px;
+    border-radius: 5px;
+    border: 1px;
+    margin: 60px 0 0 28px;
+    position: absolute;
+}

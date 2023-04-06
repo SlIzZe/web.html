@@ -1,0 +1,122 @@
+/* На дереве */
+@keyframes foliage-mini-move-1 {
+    0% {
+        padding: 0px;
+    }
+
+    to {
+        padding-left: 20px;
+    }
+}
+
+@keyframes foliage-mini-move-2 {
+    0% {
+        padding: 0px;
+    }
+
+    to {
+        padding-left: 20px;
+    }
+}
+
+@keyframes foliage-mini-move-3 {
+    0% {
+        padding: 0px;
+    }
+
+    to {
+        padding-left: 20px;
+    }
+}
+
+@keyframes foliage-mini-move-4 {
+    0% {
+        padding: 0px;
+    }
+
+    to {
+        padding-left: 20px;
+    }
+}
+/* Мелкие */
+@keyframes foliage-move1 {
+    0% {
+        margin-left: 170px;
+    }
+
+    to {
+        margin-left: 1000px;
+    }
+}
+@keyframes foliage-move2 {
+    0% {
+        margin-left: 285px;
+    }
+
+    to {
+        margin-left: 1000px;
+    }
+}
+@keyframes foliage-move3 {
+    0% {
+        margin-left: 325px;
+    }
+
+    to {
+        margin-left: 1000px;
+    }
+}
+@keyframes foliage-move4 {
+    0% {
+        margin-left: 340px;
+    }
+
+    to {
+        margin-left: 1000px;
+    }
+}
+@keyframes foliage-move5 {
+    0% {
+        margin-left: 345px;
+    }
+
+    to {
+        margin-left: 1000px;
+    }
+}
+@keyframes foliage-move6 {
+    0% {
+        margin-left: 335px;
+    }
+
+    to {
+        margin-left: 1000px;
+    }
+}
+@keyframes foliage-move7 {
+    0% {
+        margin-left: 320px;
+    }
+
+    to {
+        margin-left: 1000px;
+    }
+}
+@keyframes foliage-move8 {
+    0% {
+        margin-left: 275px;
+    }
+
+    to {
+        margin-left: 1000px;
+    }
+}
+@keyframes foliage-move9 {
+    0% {
+        margin-left: 170px;
+    }
+
+    to {
+        margin-left: 1000px;
+    }
+}

@@ -1,0 +1,98 @@
+@keyframes eyes-move {
+    from {
+        margin-left: -20px;
+    }
+    
+    to {
+        margin-left: 30px;
+    }
+
+    25% {
+        margin-left: 30px;
+    }
+
+    25% {
+        margin-left: -20px;
+    }
+    
+    to {
+        margin-left: 30px;
+    }
+    
+    from {
+        margin-left: -20px;
+    }
+}
+
+@keyframes rote-move1 {
+    from {
+        padding-bottom: -30px;
+    }
+    to {
+        padding-bottom: 30px;
+    }
+}
+
+@keyframes rote-move2 {
+    from {
+        padding-bottom: -30px;
+    }
+    to {
+        padding-bottom: 30px;
+    }
+}
+
+@keyframes ear-move1 {
+    from {
+        margin-top: -10px;
+    }
+    to {
+        margin-bottom: 20px;
+    }
+}
+
+@keyframes ear-move2 {
+    from {
+        margin-top: -40px;
+    }
+    to {
+        margin-bottom: 20px;
+    }
+}
+
+@keyframes tear-move {
+    from {
+        padding-top: 50px;
+    }
+    to {
+        padding-bottom: -30px;
+    }
+}
+
+@keyframes tear-move {
+    from {
+        padding-top: 60px;
+    }
+    to {
+        padding-bottom: 10px;
+    }
+}
+
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background: #ffffff;
+}
+
+.smile2,
+.mount-smile2,
+.mount {
+    position: absolute;
+}
+
+.allsmile1 {
+    display: flex;
+}

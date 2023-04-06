@@ -1,0 +1,177 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 15px;
+}
+
+/* Шапка */
+
+.header {
+    background: #eee;
+}
+
+.header-top {
+    text-align: center;
+}
+
+.header-top-logo {
+    display: inline-block;
+    background: url(../img/logo.png) no-repeat 84px 2px;
+    height: 80px;
+    width: 245px;
+    margin-top: 3px;
+}
+
+.header-top-nav {
+    background: #494e55;
+    padding: 5px 0;
+}
+
+.header-top-list {
+    list-style: none;
+}
+
+.header-top-list-item {
+    display: inline-block;
+    margin-right: 35px;
+}
+
+.header-top-list-item-two {
+    margin-right: 42px;
+}
+
+.header-top-list-item:first-child {
+    margin-left: 387px;
+}
+
+.header-top-list-item-link {
+    text-decoration: none;
+    text-transform: uppercase;
+    color: #fff;
+    font-weight: 700;
+}
+
+/* Блок с картинкой */
+
+.main-block {
+    background: rgb(205, 205, 205);
+}
+
+.main-block-content {
+    display: flex;
+    justify-content: center;
+}
+
+.main-block-2 {
+    width: 50%;
+}
+
+.main-block-title {
+    font-size: 50px;
+    font-weight: 400;
+    margin: 40px 0 0 65px;
+    line-height: 59px;
+}
+
+.main-block-text {
+    font-size: 16px;
+    line-height: 24px;
+    margin: 22px 0 57px 65px;
+}
+
+.main-block-text-und {
+    display: block;
+}
+
+.main-block-link {
+    background: #db565a;
+    color: #fff;
+    font-size: 16px;    
+    text-decoration: none;
+    padding: 16px 53px;
+    text-transform: uppercase;
+    border-radius: 3px;
+    margin-left: 65px;
+}
+
+.main-block-img {
+    margin: 34px 0 0 15px;
+    vertical-align: bottom;
+}
+
+/* Блок с продуктами */
+
+.servis-block {
+    display: flex;
+    justify-content: center;
+}
+ 
+.block-info-1,
+.block-info-2,
+.block-info-3 {
+    width: 33.3333%;
+    padding: 110px 0 0 141px;
+    border-radius: 3px;
+}
+
+.block-info-link1 {
+    background: #efc75e;
+    padding: 16px 40px;
+}
+
+.block-info-link2 {
+    background: #52b1b1;
+    padding: 16px 40px;
+}
+
+.block-info-link3 {
+    background: #f0dc6a;
+    padding: 16px 40px;
+}
+
+.block-info-title {
+    font-size: 24px;
+    color: #000;
+    font-weight: 700;
+    text-transform: uppercase;
+    margin: 0 0 20px 32px;
+}
+
+.block-info-title1::before {
+    content: url(../img/ic-1.png);
+    display: block;
+    margin: 0 0 38px 20px;
+}
+
+.block-info-title2::before {
+    content: url(../img/ic-2.png);
+    display: block;
+    margin: 0 0 38px 20px;
+}
+
+.block-info-title3::before {
+    content: url(../img/ic-3.png);
+    display: block;
+    margin: 0 0 38px 20px;
+}
+
+.block-info-text {
+    font-size: 16px;
+    color: #283136;
+    line-height: 22px;
+    margin-bottom: 50px;
+}
+
+.block-info-link {
+    font-size: 16px;
+    color: #fff;
+    text-decoration: none;
+    text-transform: uppercase;
+    margin-left: 25px;
+}

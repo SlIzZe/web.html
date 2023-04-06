@@ -1,0 +1,100 @@
+.allsmile {
+    height: 1000px;
+}
+
+.allsmile2 {
+    position: absolute;
+    display: flex;
+}
+
+.smile4 {
+    background: #05d6da;
+    border-radius: 50%;
+    align-items: center;
+    height: 300px;
+    width: 300px;
+    margin: 0 0 200px 250px;
+    border: 2px solid #000;
+}   
+
+.smile-face-4 {
+    display: flex;
+    justify-content: center;
+    position: absolute;
+}
+
+.smile-eyes4 {
+    display: flex;
+
+}
+
+.smile4-eye1 {
+    background: #074f51;
+    height: 40px;
+    width: 30px;
+    border-radius: 50%;
+    border: solid 1px #0b7577;
+    margin: 100px 0 0 75px;
+}
+
+.smile4-eye2 {
+    background: #074f51;
+    height: 40px;
+    width: 30px;
+    border-radius: 50%;
+    border: solid 1px #0b7577;
+    margin: 100px 0 0 75px;
+}
+
+.smile4-glavmount{
+    display: flex;
+    position: absolute;
+    margin: 180px 0 0 70px;
+}
+
+.smile4-mount {
+    background: #eddda2;
+    height: 40px;
+    width: 175px;
+    border: 5px solid #11bcc2;
+    border-radius: 50px;
+}
+
+.teeth1 {
+    background: #464646;
+    height: 3px;
+    width: 175px;
+    position: absolute;
+    margin: 23px 0 0 5px;
+}
+
+.teeth-1,
+.teeth-2,
+.teeth-3,
+.teeth-4,
+.teeth-5 {
+    background: #464646;
+    height: 40px;
+    width: 3px;
+    position: absolute;
+}
+
+.teeth-1 {
+    margin: 5px 0 0 18px;
+}
+
+.teeth-2 {
+    margin: 5px 0 0 53px;
+}
+
+.teeth-3 {
+    margin: 5px 0 0 92px;
+}
+
+.teeth-4 {
+    margin: 5px 0 0 130px;
+}
+
+.teeth-5 {
+    margin: 5px 0 0 162px;
+}

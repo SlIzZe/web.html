@@ -1,0 +1,71 @@
+.smile5 {
+    background: #ffee00;
+    height: 300px;
+    width: 300px;
+    margin: 0 0 0 700px;
+    border: #edc202 solid 3px;
+    border-radius: 50%;
+}
+
+.smile5-eyes {
+    display: flex;
+    position: absolute;
+}
+
+.smile5-eye-1 {
+    background: #000;
+    height: 20px;
+    width: 20px;
+    margin: 70px 0 0 55px;
+    border-radius: 50%;
+    border: solid #fff 30px;
+}
+
+.smile5-eye-2 {
+    background: #000;
+    height: 20px;
+    width: 20px;
+    margin: 70px 0 0 30px;
+    border-radius: 50%;
+    border: solid #fff 30px;
+}
+
+.smile5-in-eye {
+    background: #ffee00;
+    height: 30px;
+    width: 80px;
+    position: absolute;
+    margin: 125px 0 0 165px;
+}
+
+.smile5-mount {
+    position: absolute;
+    background: #beb206;
+    height: 70px;
+    width: 200px;
+    border: solid #9e9405 3px;
+    border-radius: 50px;
+    margin: 170px 0 0 45px;
+    display: flex;
+
+}
+
+.smile5-teeth-1 {
+    background: #fff;
+    width: 30px;
+    height: 35px;
+    position: absolute;
+    margin: 2px 0 0 65px;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+}
+
+.smile5-teeth-2 {
+    background: #fff;
+    width: 30px;
+    height: 35px;
+    position: absolute;
+    margin: 2px 0 0 100px;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+}

@@ -1,0 +1,47 @@
+* {
+   margin: 0;
+   padding: 0;
+}
+
+.smile-glav {
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   height: 750px;
+   
+}
+
+.smile {
+   background: #fbff00;
+   height: 500px;
+   width: 500px;
+   border-radius: 50%;
+   border: solid #d8dc02 2px;
+}
+
+.eye-1 {
+   background: #1a1a1a;
+   height: 100px;
+   width: 60px;
+   border-radius: 50%;
+   position: absolute;
+   margin: 140px 0 0 130px;
+}
+
+.eye-2 {
+   background: #1a1a1a;
+   height: 100px;
+   width: 60px;
+   border-radius: 50%;
+   position: absolute;
+   margin: 140px 0 0 300px;
+}
+
+.mount {
+   background: #1a1a1a;
+   height: 180px;
+   width: 90px;
+   border-radius: 50%;
+   position: absolute;
+   margin: 230px 0 0 200px;
+}

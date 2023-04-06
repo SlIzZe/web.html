@@ -1,0 +1,8 @@
+@keyframes muve-rote {
+    from {
+        margin-top: 1px;
+    }
+    to {
+        margin-top: 600px;
+    }
+}
